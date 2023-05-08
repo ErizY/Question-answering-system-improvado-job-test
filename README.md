@@ -18,7 +18,7 @@ CREATE TABLE blog_posts (id INTEGER PRIMARY KEY, text TEXT, reprocessed_text TEX
 CREATE TABLE ai_answers (id INTEGER PRIMARY KEY, question TEXT, answer TEXT);
 
 Run the app.py script:
-python app.py
+python question answer system 2.0.py
 
 
 Usage
